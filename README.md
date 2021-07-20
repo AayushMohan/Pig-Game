@@ -1,2 +1,2 @@
-# pig-game
+# Pig-Game
 Pig Game
